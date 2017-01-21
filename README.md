@@ -3,8 +3,6 @@ Weensy OS 2
 	UCLA CS 111 Minilab 2
 	Professor Peter Reiher
 	Winter 2014
-
-	Alan Kha        904030522	akhahaha@gmail.com
 -------------------------------------------------------------------------------
 Summary
 ---------------
